@@ -16,6 +16,6 @@ When the network speed is stable, the skeleton loading UI will not be visible, s
 
 - Open DevTools > Navigate to the "Network" tab > Select the type of connection you want (Slow 3G)> Reload the page
 
-<img src="./network_screen_img.png" width="1061px" height="474px" title="Network Throttling image"/>
+<img src="./network_screen_img.png" width="830px" height="371px" title="Network Throttling image"/>
 
 - reference site: https://www.freecodecamp.org/news/how-to-build-skeleton-screens-using-css-for-better-user-experience
